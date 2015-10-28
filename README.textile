@@ -16,24 +16,27 @@ The mark is comprised of three elements: a lowercase "t" and a period/dot (colle
 
 The typeface is PT Sans, and the weight is bold.
 
-Padding between the tee-dot and the field edge is uniform at top, left, and bottom, and greater at right, as follows:
+Padding between the tee-dot and field edges is defined as:
 
-* x = the stem width of the lowercase "t" at any given font size
-* 2x = the top, left, and bottom padding between letter mark and field color edge
-* 6x = the right padding
+* x = stem width of the lowercase "t" at any given font size
+* 2x = top, left, and bottom padding
+* 6x = right padding
 
 h2. Usage
 
-Use the mark as follows: 
+You may use the mark as you need, of course (so long as it's for Textile), but the following guidelines are recommended for universal recognition: 
 
-# any size, but ensure the padding proportions are safeguarded
-# the "t" and dot (tee-dot) must be the same color
-# these color options only:
-** any grayscale combo of field and tee-dot
-** a white tee-dot on a black field
-** a tee-dot in #303030 on a #ffeab6 field, or the inverse
-# give the mark some breathing room fom surrounding elements; 3x is a recommended minimum
+# Any size, but ensure the padding proportions are safeguarded
+# The "t" and dot (tee-dot) must be the same color
+# These color options only:
+** Any grayscale combo of field and tee-dot
+** A white tee-dot on a black field
+** A tee-dot in #303030 on a #ffeab6 field, or the inverse
+# Give the mark some breathing room fom surrounding elements; 3x is a recommended minimum
 
+h2. License
+
+This mark is a public domain dedication under a "Creative Commons CC0 1.0 Universal (CC0 1.0) License":https://creativecommons.org/publicdomain/zero/1.0/legalcode.
 
 
 
