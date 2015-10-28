@@ -2,7 +2,7 @@ h2. The Textile mark
 
 This mark represents Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003, which he billed as a "humane web text generator" due to its logical syntax and unobtrusive use -- it gets out of the way and lets you focus on writing.
 
-The mark is available as a full-name wordmark and a symbolic icon. The wordmark is not capitalized. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
+The mark is available as a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
 
 This mark was "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453 in 2015, with conceptual input from Julian Reisenberger and GugUser.
 
@@ -10,11 +10,13 @@ Contributions are welcome if submitted as pull requests to this repo. Such contr
 
 h2. Spec
 
-The typeface for both wordmark and icon mark is PT Sans, in bold weight. The size is relative.
+The typeface for both wordmark and icon mark is PT Sans, in bold weight. Mark dimensions are based on a relative value of "x", which is the stem width of the lowercase "t" at any given font size.
 
 h3. The wordmark
 
-(forthcoming)
+The wordmark is not capitalized and can be used with or without a field color, in which case the spacing dimensions are considered either padding or margin, accordingly.
+
+(specs for both options coming shortly)
 
 h3. The icon mark
 
@@ -24,7 +26,6 @@ The icon mark is comprised of three elements: a lowercase "t" and a period/dot (
 
 Padding between the tee-dot and field edges is defined as:
 
-* x = stem width of the lowercase "t" at any given font size
 * 2x = top, left, and bottom padding, measured from the outermost edges of the "t".
 * 6x = right padding, measured from right edge of the dot.
 
