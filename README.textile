@@ -1,6 +1,6 @@
 h2. The Textile mark
 
-Use this where you use Textile to markup your copy.
+Add this mark to your applications and websites, or anywhere else you employ the joy of Textile -- the "humane web text generator" that just lets you write.
 
 h2. About
 
