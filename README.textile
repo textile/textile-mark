@@ -1,0 +1,40 @@
+h2. The Textile mark
+
+Use this where you use Textile to markup your copy.
+
+h2. About
+
+This mark was "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453 in 2015.
+
+Textile was created by "Dean Allen":http://alistapart.com/author/deanallen in 2003.
+
+h2. Spec
+
+!https://dl.dropboxusercontent.com/u/673214/textile-mark-spec.png!
+
+Typeface: PT Sans
+Weight: Bold
+Colors: Any grayscale, including black and white, or the colors #ffeab6 and #303030 inverted either way.
+
+Padding between the letter mark and the field edge is uniform at top, left, and bottom, and greater at right, as follows:
+
+* x = the stem width of the lowercase "t" at any given font size
+* 2x = the top, left, and bottom padding between letter mark and field color edge
+* 6x = the right padding
+
+h2. Usage
+
+The mark is comprised of three elements: a lowercase "t" and a period/dot (collectively, "tee-dot") positioned left on a background field. The "t" represents Textile's name, and it's leftward position, combined with the dot, symbolizes how several elements of text are notated with Textile (@p.@, @bq.@, @bc.@, and so forth). 
+
+The mark must be employed as follows: 
+
+# any size, but ensure the padding proportions are safeguarded
+# the letter "t" and dot (tee-dot) must be the same color
+# these color options only:
+** any grayscale combo of field and tee-dot
+** a white tee-dot on a black field
+** a tee-dot in #303030 on a #ffeab6 field, or the inverse
+
+
+
+
