@@ -1,14 +1,18 @@
-h2. The Textile mark
+h2. The Textile marks
 
-This mark represents Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003, which he billed as a "humane web text generator" due to its logical syntax and unobtrusive use -- it gets out of the way and lets you focus on writing.
+These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003, which he billed as a "humane web text generator" due to its logical syntax and unobtrusive use -- it gets out of the way and lets you focus on writing.
 
-The mark is available as a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
+The marks are available as a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
 
-This mark was "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453 in 2015, with conceptual input from Julian Reisenberger and GugUser.
+h3. History
+
+The marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/.
+
+h3. Contributions
 
 Contributions are welcome if submitted as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful and in accordance with the specifications below.
 
-h2. Spec
+h2. Specs
 
 The typeface for both wordmark and icon mark is PT Sans, in bold weight. Mark dimensions are based on a relative value of "x", which is the stem width of the lowercase "t" at any given font size.
 
@@ -16,7 +20,7 @@ h3. The wordmark
 
 The wordmark is not capitalized and can be used with or without a field color, in which case the spacing dimensions are considered either padding or margin, accordingly.
 
-(specs for wordmark options coming shortly)
+(specs forthcoming after image clean up)
 
 h3. The icon mark
 
@@ -31,15 +35,28 @@ Padding between the tee-dot and field edges is defined as:
 
 h2. Usage guidelines
 
-You may use the mark as your design needs, but the following guidelines are recommended for universal recognition: 
+Use the marks according to needs, but follow the respective guidelines whenever possible for sake of universal recognition.
 
-# Any size, but ensure the padding proportions are safeguarded
-# The "t" and dot (tee-dot) should be the same color
-# These color options are preferred:
-** Any grayscale combo of field and tee-dot
-** A white tee-dot on a black field
-** A tee-dot in #303030 on a #ffeab6 field, or the inverse
-# Give the mark some breathing room fom surrounding elements; 3x is a recommended minimum
+For both marks:
+
+* Don't change the typeface or font weight.
+* Use a flat design (no gloss, shadows, bevels, etc.).
+* Use any size, but ensure the relative distances and proportions are safeguarded.
+* Use the standard color options:
+** grayscale
+** white on black
+** #303030 on a #ffeab6 (positive) or the inverse (negative)
+* Give the mark some breathing room from surrounding UI elements; 3x is a recommended minimum.
+
+For the wordmark:
+
+* Don't capitalize the first letter.
+* All letters must be the same color.
+
+For icon mark 
+
+* The "t" and dot (tee-dot) should be the same color.
+* Don't make the icon square loosing the padding proportions.
 
 h2. License
 
