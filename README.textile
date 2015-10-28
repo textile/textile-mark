@@ -16,13 +16,13 @@ h3. The wordmark
 
 The wordmark is not capitalized and can be used with or without a field color, in which case the spacing dimensions are considered either padding or margin, accordingly.
 
-(specs for both options coming shortly)
+(specs for wordmark options coming shortly)
 
 h3. The icon mark
 
-!https://dl.dropboxusercontent.com/u/673214/textile-mark-spec.png!
-
 The icon mark is comprised of three elements: a lowercase "t" and a period/dot (collectively called "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
+
+!https://dl.dropboxusercontent.com/u/673214/textile-mark-spec.png!
 
 Padding between the tee-dot and field edges is defined as:
 
