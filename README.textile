@@ -10,11 +10,17 @@ Contributions are welcome if submitted as pull requests to this repo. Such contr
 
 h2. Spec
 
+The typeface for both wordmark and icon mark is PT Sans, in bold weight. The size is relative.
+
+h3. The wordmark
+
+(forthcoming)
+
+h3. The icon mark
+
 !https://dl.dropboxusercontent.com/u/673214/textile-mark-spec.png!
 
-The mark is comprised of three elements: a lowercase "t" and a period/dot (collectively, "tee-dot") positioned left on a background field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes how several elements of text are notated with Textile (@p.@, @bq.@, @bc.@, and so forth).
-
-The typeface is PT Sans, and the weight is bold.
+The icon mark is comprised of three elements: a lowercase "t" and a period/dot (collectively called "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
 
 Padding between the tee-dot and field edges is defined as:
 
@@ -22,7 +28,7 @@ Padding between the tee-dot and field edges is defined as:
 * 2x = top, left, and bottom padding, measured from the outermost edges of the "t".
 * 6x = right padding, measured from right edge of the dot.
 
-h2. Usage
+h2. Usage guidelines
 
 You may use the mark as your design needs, but the following guidelines are recommended for universal recognition: 
 
