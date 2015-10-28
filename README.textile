@@ -24,7 +24,7 @@ Padding between the tee-dot and field edges is defined as:
 
 h2. Usage
 
-You may use the mark as you need, of course (so long as it's for Textile), but the following guidelines are recommended for universal recognition: 
+You may use the mark as your design needs, but the following guidelines are recommended for universal recognition: 
 
 # Any size, but ensure the padding proportions are safeguarded
 # The "t" and dot (tee-dot) must be the same color
