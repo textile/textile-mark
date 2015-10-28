@@ -8,6 +8,8 @@ This mark was "designed by Destry Wion":http://forum.textpattern.com/viewtopic.p
 
 Textile was created by "Dean Allen":http://alistapart.com/author/deanallen in 2003.
 
+Your file size and format contributions are welcome, including .png icon sets, SVG files, PhotoShop and Illustrator kits, or any other form or version that might be useful. Please submit contributions as a pull request to this repo.
+
 h2. Spec
 
 !https://dl.dropboxusercontent.com/u/673214/textile-mark-spec.png!
