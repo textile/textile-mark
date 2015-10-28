@@ -1,14 +1,12 @@
 h2. The Textile mark
 
-Add this mark to your applications and websites, or anywhere else you employ the joy of Textile -- the "humane web text generator" that just lets you write.
+This mark represents Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003, which he billed as a "humane web text generator" due to it's logical syntax and unobtrusive use -- it gets out of the way and lets you write.
 
-h2. About
+The mark is available as a full-name wordmark and as a symbolic icon. The wordmark is not capitalized. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
 
-This mark was "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453 in 2015.
+This mark was "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453 in 2015, with conceptual input from Julian Reisenberger and GugUser.
 
-Textile was created by "Dean Allen":http://alistapart.com/author/deanallen in 2003.
-
-Your file size and format contributions are welcome, including .png icon sets, SVG files, PhotoShop and Illustrator kits, or any other form or version that might be useful. Please submit contributions as a pull request to this repo.
+Contributions are welcome if submitted as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful.
 
 h2. Spec
 
@@ -21,8 +19,8 @@ The typeface is PT Sans, and the weight is bold.
 Padding between the tee-dot and field edges is defined as:
 
 * x = stem width of the lowercase "t" at any given font size
-* 2x = top, left, and bottom padding
-* 6x = right padding
+* 2x = top, left, and bottom padding, measured from the outermost edges of the "t".
+* 6x = right padding, measured from right edge of the dot.
 
 h2. Usage
 
