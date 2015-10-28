@@ -29,8 +29,8 @@ h2. Usage
 You may use the mark as your design needs, but the following guidelines are recommended for universal recognition: 
 
 # Any size, but ensure the padding proportions are safeguarded
-# The "t" and dot (tee-dot) must be the same color
-# These color options only:
+# The "t" and dot (tee-dot) should be the same color
+# These color options are preferred:
 ** Any grayscale combo of field and tee-dot
 ** A white tee-dot on a black field
 ** A tee-dot in #303030 on a #ffeab6 field, or the inverse
