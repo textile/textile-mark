@@ -30,8 +30,8 @@ The icon mark is comprised of three elements: a lowercase "t" and a period/dot (
 
 Padding between the tee-dot and field edges is defined as:
 
-* 2x = top, left, and bottom padding, measured from the outermost edges of the "t".
-* 6x = right padding, measured from right edge of the dot.
+* 3x/2 = top, left, and bottom padding, measured from the outermost edges of the "t".
+* 9x/2 = right padding, measured from right edge of the dot.
 
 h2. Usage guidelines
 
