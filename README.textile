@@ -26,12 +26,12 @@ h3. The icon mark
 
 The icon mark is comprised of three elements: a lowercase "t" and a period/dot (collectively called "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
 
-!https://dl.dropboxusercontent.com/u/673214/textile-mark-spec.png!
+!https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-spec.png!
 
 Padding between the tee-dot and field edges is defined as:
 
-* 3x/2 = top, left, and bottom padding, measured from the outermost edges of the "t".
-* 9x/2 = right padding, measured from right edge of the dot.
+* 3x/2 = top, left, and bottom, measured from the outermost edges of the "t".
+* 9x/2 = right, measured from right edge of the dot.
 
 h2. Usage guidelines
 
@@ -43,9 +43,10 @@ For both marks:
 * Use a flat design (no gloss, shadows, bevels, etc.).
 * Use any size, but ensure the relative distances and proportions are safeguarded.
 * Use the standard color options:
-** grayscale
-** white on black
+** grayscale (any variation)
 ** #303030 on a #ffeab6 (positive) or the inverse (negative)
+** white on black
+** black on white (only effective if your UI background is any shade darker than #fff)
 * Give the mark some breathing room from surrounding UI elements; 3x is a recommended minimum.
 
 For the wordmark:
@@ -55,7 +56,7 @@ For the wordmark:
 
 For icon mark 
 
-* The "t" and dot (tee-dot) should be the same color.
+* The "t" and dot (tee-dot) must be the same color.
 * Don't make the icon square loosing the padding proportions.
 
 h2. License
