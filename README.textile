@@ -2,19 +2,19 @@
 
 h1. The Textile marks
 
-These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003. Textile was billed as the "humane web text generator" due to its logical syntax and unobtrusiveness; it gets out of your way so you can focus on writing, not coding. For nearly 13 years Textile had no satisfactory mark for writers, designers, and developers to use, and now it does.
+These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003. Textile was billed as the "humane web text generator" due to its logical syntax and unobtrusiveness; it gets out of your way so you can focus on writing. For nearly 13 years, no satisfactory mark existed for writers, designers, and developers to use, and now one does.
 
 Two marks are available: a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications, websites, or anywhere else you employ the simplicity of Textile.
 
 h2. Creation and contributions
 
-The marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/.
+These marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/.
 
-Contributions are welcome if submitted as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful and in accordance with the specifications below.
+File contributions are welcome if submitted as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful and in accordance with the specifications below.
 
 h2. Specs
 
-The typeface for both wordmark and icon mark is PT Sans, in bold weight. Mark dimensions are based on a relative value of "x", which is the stem width of the lowercase "t" at any given font size.
+The typeface for both marks is PT Sans in bold weight. Dimensions are based on a relative value of "x", the stem width of the lowercase "t" at any given font size.
 
 h3. The wordmark
 
