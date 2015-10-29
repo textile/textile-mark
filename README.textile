@@ -18,9 +18,18 @@ The typeface for both marks is PT Sans in bold weight. Dimensions are based on a
 
 h3. The wordmark
 
-The wordmark is not capitalized and can be used with or without a field color, in which case the spacing dimensions are considered either padding or margin, accordingly.
+The wordmark is not capitalized and can be used with or without a field color. If without the field color, the surrounding spacing dimensions serve as _minimum_ margins from neighboring UI elements and edges:
 
-(specs forthcoming after image clean up)
+!https://dl.dropboxusercontent.com/u/673214/textile-wordmark-spec2.png!
+
+If with the field color, the spacing dimensions serve as padding between lettering and field edges:
+
+!https://dl.dropboxusercontent.com/u/673214/textile-wordmark-spec.png!
+
+Spacing dimensions are:
+
+* 1.5x = top, left, and bottom; measured from the top of the "l", the left edge of the "t" crossbar, and the bottom edge of "t" curve.
+* 2x = right, measured from right edge of the "e" curve.
 
 h3. The icon mark
 
@@ -30,8 +39,8 @@ The icon mark is comprised of three elements: a lowercase "t" and a period/dot (
 
 Padding between the tee-dot and field edges is defined as:
 
-* 3x/2 = top, left, and bottom, measured from the outermost edges of the "t".
-* 9x/2 = right, measured from right edge of the dot.
+* 1.5x = top, left, and bottom, measured from the outermost edges of the "t".
+* 4.5x = right, measured from right edge of the dot.
 
 h2. Usage guidelines
 
