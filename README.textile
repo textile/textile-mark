@@ -2,15 +2,13 @@
 
 h1. The Textile marks
 
-These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003, which he billed as a "humane web text generator" due to its logical syntax and unobtrusive use -- it gets out of the way and lets you focus on writing.
+These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003 for writers. Textile was billed as the "humane web text generator" due to its logical syntax and unobtrusiveness. Textile gets out of your way so you can focus on writing, not coding. For nearly 13 years Textile had no satisfactory mark for writers, designers, and developers to use, and now it does.
 
-The marks are available as a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
+Two marks are available: a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
 
-h3. History
+h2. Creation and contributions
 
 The marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/.
-
-h3. Contributions
 
 Contributions are welcome if submitted as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful and in accordance with the specifications below.
 
