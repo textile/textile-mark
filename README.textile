@@ -2,9 +2,9 @@
 
 h1. The Textile marks
 
-These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003 for writers. Textile was billed as the "humane web text generator" due to its logical syntax and unobtrusiveness. Textile gets out of your way so you can focus on writing, not coding. For nearly 13 years Textile had no satisfactory mark for writers, designers, and developers to use, and now it does.
+These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2003. Textile was billed as the "humane web text generator" due to its logical syntax and unobtrusiveness; it gets out of your way so you can focus on writing, not coding. For nearly 13 years Textile had no satisfactory mark for writers, designers, and developers to use, and now it does.
 
-Two marks are available: a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications and websites, or anywhere else you employ the simplicity of Textile.
+Two marks are available: a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications, websites, or anywhere else you employ the simplicity of Textile.
 
 h2. Creation and contributions
 
