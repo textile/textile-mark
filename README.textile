@@ -22,22 +22,22 @@ The wordmark is not capitalized and can be used with or without a field color. I
 
 !https://dl.dropboxusercontent.com/u/673214/textile-wordmark-spec.png!
 
-Spacing dimensions are:
+Padding dimensions are relative to the stem width of a "t", as follows:
 
 * 1.5x = top, left, and bottom; measured from the top of the "l", the left edge of the "t" crossbar, and the bottom edge of "t" curve.
 * 2x = right, measured from right edge of the "e" curve.
 
-If without the field color, the spacing dimensions serve as _minimum_ margins from neighboring UI elements and edges:
+If without the field color, the dimensions serve as _minimum margins_ from neighboring UI elements and edges:
 
 !https://dl.dropboxusercontent.com/u/673214/textile-wordmark-spec2.png!
 
 h3. The icon mark
 
-The icon mark is comprised of three elements: a lowercase "t" and a period/dot (collectively called "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
+The icon mark is comprised of three elements: a lowercase "t" and a period/dot (collectively "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
 
 !https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-spec.png!
 
-Padding between the tee-dot and field edges is defined as:
+Again, padding dimensions are relative to the width of the "t" stem, as follows:
 
 * 1.5x = top, left, and bottom, measured from the outermost edges of the "t".
 * 4.5x = right, measured from right edge of the dot.
