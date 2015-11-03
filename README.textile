@@ -1,16 +1,15 @@
-!https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-sampler.png!
-
 h1. The Textile logo marks
+
+!https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-sampler.png!
 
 These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2002. For nearly 13 years, no satisfactory mark existed for writers, designers, and developers to use, now one does.
 
-Two marks are available: a full-name wordmark and a symbolic icon mark. Add the mark of your choosing to your applications, websites, or anywhere else you employ the simplicity of Textile.
+Two marks are available: 
 
-h2. Creation and contributions
+* full-name wordmark 
+* symbolic icon mark
 
-These marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/.
-
-File contributions are welcome if submitted as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful and in accordance with the specifications below.
+Use either mark for your applications, websites, or anywhere else you employ the simplicity and pleasure of Textile.
 
 h2. Specs
 
@@ -71,6 +70,12 @@ For icon mark
 h2. License
 
 This mark is a public domain dedication under a "Creative Commons CC0 1.0 Universal (CC0 1.0) License":https://creativecommons.org/publicdomain/zero/1.0/legalcode.
+
+h2. Creation and contributions
+
+These marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/.
+
+File contributions are welcome. Submit them as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful and in accordance with the specifications above.
 
 
 
