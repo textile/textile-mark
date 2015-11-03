@@ -62,7 +62,7 @@ For the wordmark:
 * Don't capitalize the first letter.
 * All letters must be the same color.
 
-For icon mark 
+For the logo mark: 
 
 * The "t" and dot (tee-dot) must be the same color.
 * Don't make the icon square loosing the padding proportions.
