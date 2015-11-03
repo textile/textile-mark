@@ -30,9 +30,9 @@ If without the field color, the dimensions serve as _minimum margins_ from neigh
 
 !https://dl.dropboxusercontent.com/u/673214/textile-wordmark-spec2.png!
 
-h3. The icon mark
+h3. The logo mark
 
-The icon mark is comprised of three elements: a lowercase "t" and a period/dot (collectively "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
+The logo mark is comprised of three elements: a lowercase "t" and a period/dot (collectively "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
 
 !https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-spec.png!
 
@@ -43,18 +43,18 @@ Again, padding dimensions are relative to the width of the "t" stem, as follows:
 
 h2. Usage guidelines
 
-Use the marks however you need, but respect the guidelines as much as possible for the sake of mark recognition.
+Use the marks however you need, but respect the guidelines when possible for the sake of mark recognition.
 
 For both marks:
 
 * Don't change the typeface or font weight.
 * Use a flat design (no gloss, shadows, bevels, etc.).
 * Use any size, but ensure the relative distances and proportions are safeguarded.
-* Use the standard color options:
+* Use the recommended colors:
 ** grayscale (any variation)
-** #303030 on a #ffeab6 (positive) or the inverse (negative)
-** white on black
-** black on white (only effective if your UI background is any shade darker than #fff)
+** black on field of #ffeab6
+** black knockout
+** white knockout
 * Give the mark some breathing room from surrounding UI elements; 3x is a recommended minimum.
 
 For the wordmark:
@@ -73,9 +73,9 @@ This mark is a public domain dedication under a "Creative Commons CC0 1.0 Univer
 
 h2. Creation and contributions
 
-These marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/.
+These marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/. Reisenberger also contributed many of the available file formats.
 
-File contributions are welcome. Submit them as pull requests to this repo. Such contributions may include, .png icon sets, SVG files, file size reductions, or any other form or version that might be useful and in accordance with the specifications above.
+File contributions are welcome, which may include, more .png file sizes and icon sets, file size reductions, or any other form or version that might be useful and in accordance with the specifications above.
 
 
 
