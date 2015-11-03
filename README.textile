@@ -2,7 +2,7 @@ h1. The Textile logo marks
 
 !https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-sampler.png!
 
-These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in 2002. For nearly 13 years, no satisfactory mark existed for writers, designers, and developers to use, now one does.
+These marks represent Textile, the markup language created by "Dean Allen":http://alistapart.com/author/deanallen in "2002":https://web.archive.org/web/20021226035527/http://textism.com/tools/textile/. For nearly 13 years, no satisfactory mark existed for writers, designers, and developers to use, now one does.
 
 Two marks are available: 
 
