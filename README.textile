@@ -6,8 +6,8 @@ These marks represent Textile, the markup language developed by "Dean Allen":htt
 
 Two marks are available: 
 
-* full-name wordmark 
-* symbolic icon mark
+* "logo mark":https://github.com/wion/textile-mark/tree/master/png/logomark 
+* "wordmark":https://github.com/wion/textile-mark/tree/master/png/wordmark
 
 Use either mark for your applications, websites, or anywhere else you employ the simplicity and pleasure of Textile.
 
