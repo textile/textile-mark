@@ -73,7 +73,7 @@ This mark is a public domain dedication under a "Creative Commons CC0 1.0 Univer
 
 h2. Creation and contributions
 
-These marks were "designed by Destry Wion":http://forum.textpattern.com/viewtopic.php?id=46453, with conceptual input from Julian Reisenberger and "GugUser":https://github.com/GugUser/. Reisenberger also contributed many of the available file formats.
+These marks were "designed by Destry Wion":http://wion.com, with conceptual input from "Julian Reisenberger":http://www.julian.reisenberger.net and "GugUser":https://github.com/GugUser/. Reisenberger also contributed many of the available file formats.
 
 File contributions are welcome, which may include, more .png file sizes and icon sets, file size reductions, or any other form or version that might be useful and in accordance with the specifications above.
 
