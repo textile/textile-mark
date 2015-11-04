@@ -4,10 +4,10 @@ h1. The Textile logo marks
 
 These marks represent Textile, the markup language developed by "Dean Allen":http://alistapart.com/author/deanallen in "2002":https://web.archive.org/web/20021226035527/http://textism.com/tools/textile/. Dean never created a mark for Textile, and for nearly 13 years no satisfactory mark existed for writers, designers, and developers to use, until now.
 
-Two marks are available: 
+Two marks are available in various formats (see specs below): 
 
-* "logo mark":https://github.com/wion/textile-mark/tree/master/png/logomark 
-* "wordmark":https://github.com/wion/textile-mark/tree/master/png/wordmark
+* **wordmark**
+* **logo/icon mark** (demoed above)
 
 Use either mark for your applications, websites, or anywhere else you employ the simplicity and pleasure of Textile.
 
