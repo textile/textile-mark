@@ -26,7 +26,7 @@ Padding dimensions are relative to the stem width of a "t", as follows:
 * 1.5x = top, left, and bottom; measured from the top of the "l", the left edge of the "t" crossbar, and the bottom edge of "t" curve.
 * 2x = right, measured from right edge of the "e" curve.
 
-Without the field color, the dimensions serve as _minimum_ margins from neighboring UI elements and edges:
+Without the field color, the dimensions serve as _minimum_ margins from neighboring UI elements and edges (but a little extra distance is recommended):
 
 !https://dl.dropboxusercontent.com/u/673214/textile-wordmark-spec2.png!
 
