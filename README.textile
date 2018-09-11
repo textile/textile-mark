@@ -1,13 +1,11 @@
 h1. The Textile logo marks
 
-!https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-sampler.png!
-
 These marks represent Textile, the markup language developed by "Dean Allen":http://alistapart.com/author/deanallen in "2002":https://web.archive.org/web/20021226035527/http://textism.com/tools/textile/. Dean never created a mark for Textile, and for nearly 13 years no satisfactory mark existed for writers, designers, and developers to use, until now.
 
 Two marks are available in various formats (see specs below):
 
 * **wordmark**
-* **logo/icon mark** (demoed above)
+* **logo/icon mark**
 
 Use either mark for your applications, websites, or anywhere else you employ the simplicity and pleasure of Textile.
 
@@ -15,11 +13,13 @@ h2. Specs
 
 The typeface for both marks is PT Sans in bold weight. Dimensions are based on a relative value of "x", the stem width of the lowercase "t" at any given font size.
 
+!https://github.com/textile/textile-mark/blob/master/specs/textile-icon-mark-spec.png!
+
 h3. The wordmark
 
 The wordmark is not capitalized and can be used with or without a field color. If with the field color, the spacing dimensions serve as padding between lettering and field edges:
 
-!https://github.com/textile/textile-mark/blob/master/specs/textile-icon-mark-spec.png!
+!https://github.com/textile/textile-mark/blob/master/png/wordmark/textile-mark_wordmark.png!
 
 Padding dimensions are relative to the stem width of a "t", as follows:
 
@@ -28,13 +28,11 @@ Padding dimensions are relative to the stem width of a "t", as follows:
 
 Without the field color, the dimensions serve as _minimum_ margins from neighboring UI elements and edges (but a little extra distance is recommended):
 
-!https://dl.dropboxusercontent.com/u/673214/textile-wordmark-spec2.png!
-
 h3. The logo mark
 
 The logo mark is comprised of three elements: a lowercase "t" and a period/dot (collectively "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
 
-!https://dl.dropboxusercontent.com/u/673214/textile-icon-mark-spec.png!
+!https://github.com/textile/textile-mark/blob/master/png/logomark/textile-mark_logo.png!
 
 Again, padding dimensions are relative to the width of the "t" stem, as follows:
 
@@ -73,9 +71,6 @@ This mark is a public domain dedication under a "Creative Commons CC0 1.0 Univer
 
 h2. Creation and contributions
 
-These marks were "designed by Destry Wion":http://wion.com, with conceptual input from "Julian Reisenberger":http://www.julian.reisenberger.net and "GugUser":https://github.com/GugUser/. Reisenberger also contributed many of the available file formats.
+These marks were designed by "Destry Wion":https://wion.com, with conceptual input from "Julian Reisenberger":http://www.julian.reisenberger.net and "GugUser":https://github.com/GugUser/. Reisenberger also contributed many of the available file formats.
 
 File contributions are welcome, which may include, more .png file sizes and icon sets, file size reductions, or any other form or version that might be useful and in accordance with the specifications above.
-
-
-
