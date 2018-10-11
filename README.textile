@@ -11,9 +11,9 @@ Use either mark for your applications, websites, or anywhere else you employ the
 
 h2. Install
 
-You can include Textpattern branding resources in your project via npm:
+You can include Textile branding resources in your project via npm:
 
-bc. npm install textpattern-branding
+bc. npm install textile-mark
 
 h2. Specifications
 
