@@ -1,15 +1,21 @@
-h1. The Textile logo marks
+h1. Textile branding
 
-These marks represent Textile, the markup language developed by "Dean Allen":http://alistapart.com/author/deanallen in "2002":https://web.archive.org/web/20021226035527/http://textism.com/tools/textile/. Dean never created a mark for Textile, and for nearly 13 years no satisfactory mark existed for writers, designers, and developers to use, until now.
+These marks represent "Textile":https://txstyle.org, the markup language developed by "Dean Allen":http://alistapart.com/author/deanallen in "2002":https://web.archive.org/web/20021226035527/http://textism.com/tools/textile/. Dean never created a mark for Textile, and for nearly 13 years no satisfactory mark existed for writers, designers, and developers to use, until now.
 
 Two marks are available in various formats (see specs below):
 
 * **wordmark**
-* **logo/icon mark**
+* **logomark**
 
 Use either mark for your applications, websites, or anywhere else you employ the simplicity and pleasure of Textile.
 
-h2. Specs
+h2. Install
+
+You can include Textpattern branding resources in your project via npm:
+
+bc. npm install textpattern-branding
+
+h2. Specifications
 
 The typeface for both marks is PT Sans in bold weight. Dimensions are based on a relative value of "x", the stem width of the lowercase "t" at any given font size.
 
@@ -19,7 +25,7 @@ h3. The wordmark
 
 The wordmark is not capitalized and can be used with or without a field color. If with the field color, the spacing dimensions serve as padding between lettering and field edges:
 
-!https://github.com/textile/textile-mark/blob/master/png/wordmark/textile-mark_wordmark.png!
+!https://github.com/textile/textile-mark/blob/master/assets/wordmark/textile-wordmark.png!
 
 Padding dimensions are relative to the stem width of a "t", as follows:
 
@@ -28,11 +34,11 @@ Padding dimensions are relative to the stem width of a "t", as follows:
 
 Without the field color, the dimensions serve as _minimum_ margins from neighboring UI elements and edges (but a little extra distance is recommended):
 
-h3. The logo mark
+h3. The logomark
 
-The logo mark is comprised of three elements: a lowercase "t" and a period/dot (collectively "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
+The logomark is comprised of three elements: a lowercase "t" and a period/dot (collectively "tee-dot" for convenience) positioned left on a colored field. The "t" represents Textile's name, and its leftward position, combined with the dot, symbolizes a common pattern of Textile use (@p.@, @bq.@, @bc.@...).
 
-!https://github.com/textile/textile-mark/blob/master/png/logomark/textile-mark_logo.png!
+!https://github.com/textile/textile-mark/blob/master/assets/logomark/textile-logomark.png!
 
 Again, padding dimensions are relative to the width of the "t" stem, as follows:
 
@@ -50,7 +56,7 @@ For both marks:
 * Use any size, but ensure the relative distances and proportions are safeguarded.
 * Use the recommended colors:
 ** grayscale (any variation)
-** black on field of #ffeab6
+** black on field of @#ffeab6@
 ** black knockout
 ** white knockout
 * Give the mark some breathing room from surrounding UI elements; 3x is a recommended minimum.
@@ -60,17 +66,15 @@ For the wordmark:
 * Don't capitalize the first letter.
 * All letters must be the same color.
 
-For the logo mark:
+For the logomark:
 
 * The "t" and dot (tee-dot) must be the same color.
 * Don't make the icon square loosing the padding proportions.
 
 h2. License
 
-This mark is a public domain dedication under a "Creative Commons CC0 1.0 Universal (CC0 1.0) License":https://creativecommons.org/publicdomain/zero/1.0/legalcode.
+These marks are a public domain dedication under a "Creative Commons Zero v1.0 Universal (CC0-1.0)":https://creativecommons.org/publicdomain/zero/1.0/legalcode license.
 
 h2. Creation and contributions
 
-These marks were designed by "Destry Wion":https://wion.com, with conceptual input from "Julian Reisenberger":http://www.julian.reisenberger.net and "GugUser":https://github.com/GugUser/. Reisenberger also contributed many of the available file formats.
-
-File contributions are welcome, which may include, more .png file sizes and icon sets, file size reductions, or any other form or version that might be useful and in accordance with the specifications above.
+These marks were designed by "Destry Wion":https://wion.com, with conceptual input from "Julian Reisenberger":http://www.julian.reisenberger.net and "GugUser":https://github.com/GugUser/. Julian Reisenberger also contributed many of the available file formats.
