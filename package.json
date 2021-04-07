@@ -1,7 +1,7 @@
 {
   "name": "textile-mark",
   "description": "The Textile brand image assets.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/textile/textile-mark.git"
